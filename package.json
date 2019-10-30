@@ -11,7 +11,7 @@
   "dependencies": {
     "@alicloud/sms-sdk": "^1.1.6",
     "debug": "^4.1.1",
-    "knex": "^0.19.2",
+    "knex": "^0.19.5",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-convert": "^1.2.0",
